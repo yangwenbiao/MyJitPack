@@ -15,6 +15,6 @@ public class CutstomUtil
 
     public static String getPassword()
     {
-        return "m1";
+        return "m";
     }
 }
