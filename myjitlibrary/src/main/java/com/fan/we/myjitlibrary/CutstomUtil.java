@@ -12,4 +12,9 @@ public class CutstomUtil
     {
         return "yangwb" + "t1";
     }
+
+    public static String getPassword()
+    {
+        return "m1";
+    }
 }
