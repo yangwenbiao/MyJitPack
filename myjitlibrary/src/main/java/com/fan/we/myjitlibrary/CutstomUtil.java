@@ -10,6 +10,11 @@ public class CutstomUtil
 {
     public static String getUserName()
     {
-        return "yangwb";
+        return "yangwb" + "t4";
+    }
+
+    public static String getPassword()
+    {
+        return "m4";
     }
 }
